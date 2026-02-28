@@ -1,19 +1,8 @@
-# Template
-This is where she makes a mod.
+# Infinite Respawn Mod
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
-*Update logo.png to change your mod's icon (please)*
-
-## Getting started
-We recommend heading over to [the getting started section on our docs](https://docs.geode-sdk.org/getting-started/) for useful info on what to do next.
-
-## Build instructions
-For more info, see [our docs](https://docs.geode-sdk.org/getting-started/create-mod#build)
-```sh
-# Assuming you have the Geode CLI set up already
-geode build
-```
+All this mod really does is change your respawn time to be (theoretically) infinite so that you don't need to hide your pause menu every goddamn time you want to look at how you died.
 
 # Resources
 * [Geode SDK Documentation](https://docs.geode-sdk.org/)
