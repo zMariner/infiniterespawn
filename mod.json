@@ -1,0 +1,14 @@
+{
+	"geode": "5.2.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "mariner.infinite-respawn",
+	"name": "Infinite Respawn",
+	"version": "v1.0.1",
+	"developer": "Mariner",
+	"description": "This mod makes it so that you HAVE TO respawn using a restart keybind. Otherwise, you cannot continue playing unless you re-enter the level or restart using some other way."
+}
